@@ -36,7 +36,7 @@ A Spatial-temporal Gated Attention Module for Molecular Property Prediction Base
 >> grid3Dmols_tox21_SR-MMP_rotate<br>
 >> grid3Dmols_tox21_SR-p53_rotate<br>
 
-<b>SaveModel</b> <br>
+<b>SaveModel (Take the HIV dataset as an example)</b> <br>
 > 6-0.979.hdf5<br>
 > best_weight.hdf5<br>
 > events.out.tfevents.1608729525.lab406<br>

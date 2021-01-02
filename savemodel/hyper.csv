@@ -1,0 +1,2 @@
+dataset,num_train,num_val,num_test,data_std,data_mean,task,outputs,batch,gridshape,model,units_conv_coord,units_conv_atom,units_dense,chebyshev_order,num_layers,loss,pooling,isattention,train_time
+hiv,49629,6204,6203,1,0,binary,1,5,"(48, 48, 48, 9)",model_3D_grid,64,128,128,2,2,binary_crossentropy,max,True,13399.769249200821

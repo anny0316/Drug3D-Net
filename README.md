@@ -24,17 +24,17 @@ A Spatial-temporal Gated Attention Module for Molecular Property Prediction Base
 > grid3Dmols_hiv<br>
 > grid3Dmols_tox21<br>
 >> grid3Dmols_tox21_NR_AhR<br>
->> grid3Dmols_tox21_NR-AR_rotate<br>
->> grid3Dmols_tox21_NR-AR-LBD_rotate<br>
->> grid3Dmols_tox21_NR-Aromatase_rotate<br>
->> grid3Dmols_tox21_NR-ER_rotate<br>
->> grid3Dmols_tox21_NR-ER-LBD_rotate<br>
->> grid3Dmols_tox21_NR-PPAR-gamma_rotate<br>
->> grid3Dmols_tox21_SR-ARE_rotate<br>
->> grid3Dmols_tox21_SR-ATAD5_rotate<br>
->> grid3Dmols_tox21_SR-HSE_rotate<br>
->> grid3Dmols_tox21_SR-MMP_rotate<br>
->> grid3Dmols_tox21_SR-p53_rotate<br>
+>> grid3Dmols_tox21_NR-AR<br>
+>> grid3Dmols_tox21_NR-AR-LBD<br>
+>> grid3Dmols_tox21_NR-Aromatase<br>
+>> grid3Dmols_tox21_NR-ER<br>
+>> grid3Dmols_tox21_NR-ER-LBD<br>
+>> grid3Dmols_tox21_NR-PPAR-gamma<br>
+>> grid3Dmols_tox21_SR-ARE<br>
+>> grid3Dmols_tox21_SR-ATAD5<br>
+>> grid3Dmols_tox21_SR-HSE<br>
+>> grid3Dmols_tox21_SR-MMP<br>
+>> grid3Dmols_tox21_SR-p53<br>
 
 <b>SaveModel (Take the HIV dataset as an example)</b> <br>
 > 6-0.979.hdf5<br>

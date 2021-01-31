@@ -22,7 +22,7 @@ A Spatial-temporal Gated Attention Module for Molecular Property Prediction Base
 > grid3Dmols_delaney<br>
 > grid3Dmols_freesolv<br>
 > grid3Dmols_hiv<br>
-> grid3Dmols_tox21<br>
+> tox21<br>
 >> grid3Dmols_tox21_NR_AhR<br>
 >> grid3Dmols_tox21_NR-AR<br>
 >> grid3Dmols_tox21_NR-AR-LBD<br>

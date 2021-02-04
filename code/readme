@@ -1,0 +1,1 @@
+A Spatial-temporal Gated Attention Module for Molecular Property Prediction Based on Molecular Geometry. This is the official code implementation of Drug3D-Net paper. But the algorithm has been optimized and improved, which is slightly different from the original version.

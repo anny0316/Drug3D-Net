@@ -42,3 +42,7 @@ A Spatial-temporal Gated Attention Module for Molecular Property Prediction Base
 > events.out.tfevents.1608729525.lab406<br>
 > hyper.csv<br>
 > raw_results.csv<br>
+
+## Citation
+Chunyan Li, Jianmin Wang, Zhangming Niu, Junfeng Yao, Xiangxiang Zeng, A spatial-temporal gated attention module for molecular property prediction based on molecular geometry, Briefings in Bioinformatics, 2021;, bbab078
+https://doi.org/10.1093/bib/bbab078
